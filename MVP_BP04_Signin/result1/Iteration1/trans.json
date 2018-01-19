@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "MVP_BP04_01_LaunchBrowser",
+        "rawStartTime": 1500556927446,
+        "rawEndTime": 1500556928833
+    },
+    {
+        "transactionName": "MVP_BP04_02_ClickSignIn",
+        "rawStartTime": 1500556928845,
+        "rawEndTime": 1500556929466
+    },
+    {
+        "transactionName": "MVP_BP04_03_EnterDetails",
+        "rawStartTime": 1500556929472,
+        "rawEndTime": 1500556931605
+    },
+    {
+        "transactionName": "MVP_BP04_04_SignOut",
+        "rawStartTime": 1500556931617,
+        "rawEndTime": 1500556932479
+    }
+]

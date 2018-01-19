@@ -1,0 +1,373 @@
+[API Trapper      (278c:21fc)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (44ec:48a8)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (4ad0:5ad8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (4ad0:5588)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4ad0:5588)] Load Network Traffic Analyzers:
+[Network Analyzer (4ad0:5588)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (4ad0:5588)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (4ad0:5588)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (4ad0:5588)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (4ad0:5588)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (4ad0:5588)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (4ad0:5588)]     Analyzer Module: local_server (value=)
+[Network Analyzer (4ad0:5588)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4ad0:4340)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:5588)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:5588)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (4ad0:4340)] "GET /prestashop/"   
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Client -> Server @ : 403 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 11040 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 1556 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 3137 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/cache/theme-1dd0d9.css"   
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Client -> Server @ : 958 bytes (Service=HTTP)
+[Network Analyzer (4ad0:3a88)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:17f0)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:1e04)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:2f5c)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0: d64)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 8632 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:3a88)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (4ad0:4340)] "GET /prestashop/img/logo.png"   
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Client -> Server @ : 974 bytes (Service=HTTP)
+[Network Analyzer (4ad0:17f0)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (4ad0:4340)] "GET /prestashop/1-home_default/faded-short-sleeves-tshirt.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Client -> Server @ : 1007 bytes (Service=HTTP)
+[Network Analyzer (4ad0:1e04)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:2f5c)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/modules/ps_imageslider/images/sample-1.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Client -> Server @ : 1004 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 15708 bytes  (Service=HTTP)
+[Network Analyzer (4ad0: d64)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      (4ad0:4340)] "GET /prestashop/modules/ps_imageslider/images/sample-3.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Client -> Server @ : 1004 bytes (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/modules/ps_imageslider/images/sample-2.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Client -> Server @ : 1004 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 1627 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 8808 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/cache/bottom-7f2338.js"   
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Client -> Server @ : 978 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 1135 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 11040 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 6900 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/7-home_default/blouse.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Client -> Server @ : 987 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 11040 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 11040 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 12420 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 4316 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 8013 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 5696 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 4316 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 5696 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/8-home_default/printed-dress.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Client -> Server @ : 994 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 4560 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 9903 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 5807 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 3112 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/12-home_default/printed-summer-dress.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Client -> Server @ : 1002 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/16-home_default/printed-summer-dress.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Client -> Server @ : 1002 bytes (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/10-home_default/printed-dress.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Client -> Server @ : 995 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 14302 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 11392 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 7287 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/20-home_default/printed-chiffon-dress.jpg"   
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Client -> Server @ : 1003 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/modules/ps_banner/img/sale70.png"   
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Client -> Server @ : 994 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 9027 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 8576 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 11934 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 8615 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/css/a35546eef3ea0de0d4735f23b0a0873b.eot?"   
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/css/e487b7cb072550896dde6821d24de2be.eot?"   
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 8456 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/css/0ea04502930623aa3de110aac9f9e4fd.eot?"   
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/css/da061416028fc9a66fbc0b80d33d6e6f.eot?"   
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 11392 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 8498 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/css/7ae9b8ba7886341831bf7c85a0da40d0.eot?"   
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 10470 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 626 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/css/012cf6a10129e2275d79d6adac7f3b02.woff"   
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/themes/classic/assets/css/ea07932c5245dd421e3d05f579098bc2.eot?"   
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Server -> Client : 3630 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Server -> Client : 202 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Server -> Client : 12162 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Server -> Client : 8540 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Server -> Client : 8818 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 11744 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 13976 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 15250 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/img/favicon.ico?1324977642"   
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Client -> Server @ : 842 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 1556 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Server -> Client : 12755 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (4ad0:4340)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (4ad0:4340)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (4ad0:4340)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (4ad0:4340)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (4ad0:4340)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (4ad0:17f0)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:17f0)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (4ad0:4340)] "GET /prestashop/my-account"   
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Client -> Server @ : 959 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Server -> Client : 390 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/login?back=my-account"   
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Client -> Server @ : 970 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Server -> Client : 2760 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Server -> Client : 8280 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Server -> Client : 12258 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (4ad0:17f0)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:17f0)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      (4ad0:4340)] "POST /prestashop/login?back=my-account"   
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Client -> Server @ : 1040 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Server -> Client : 1103 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/my-account"   
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Client -> Server @ : 1377 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Server -> Client : 6900 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Server -> Client : 11040 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Server -> Client : 8786 bytes  (Service=HTTP)
+[Network Analyzer (44ec:4bf0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (44ec:4bf0)] Load Network Traffic Analyzers:
+[Network Analyzer (44ec:4bf0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (44ec:4bf0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (44ec:4bf0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (44ec:4bf0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (44ec:4bf0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (44ec:4bf0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (44ec:4bf0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (44ec:4bf0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (44ec:5064)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0:4340)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (44ec:4bf0)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (44ec:4e84)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (44ec:4bf0)] Request Connection: Remote Server @ 93.184.221.200:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (44ec:4e84)] Request Connection: Remote Server @ 93.184.221.200:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (44ec:37cc)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (44ec:4d54)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (44ec:1ac8)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (44ec:1ac8)] Request Connection: Remote Server @ 198.41.215.185:80   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (44ec:5064)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE1oACcUPWiDlic8oxIwAAAAJxQ8%3D"   
+[Network Analyzer (44ec:5064)]   (Sid:  3) Client -> Server @ : 374 bytes (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  3) Server -> Client : 1250 bytes  (Service=HTTP)
+[Web Request      (44ec:5064)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE1oACcUPWiDlic8oxIwAAAAJxQ8%3D"   
+[Network Analyzer (44ec:5064)]   (Sid:  3) Client -> Server @ : 417 bytes (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  3) Server -> Client : 1250 bytes  (Service=HTTP)
+[Network Analyzer (44ec:1ac8)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (44ec:1ac8)] Request Connection: Remote Server @ 93.184.221.200:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (44ec:5064)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer (44ec:5064)]   (Sid:  4) Client -> Server @ : 325 bytes (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  4) Server -> Client : 336 bytes  (Service=HTTP)
+[Web Request      (44ec:5064)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer (44ec:5064)]   (Sid:  4) Client -> Server @ : 368 bytes (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  4) Server -> Client : 336 bytes  (Service=HTTP)
+[Network Analyzer (44ec:1ac8)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (44ec:1ac8)] Request Connection: Remote Server @ 88.221.15.75:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (44ec:5064)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer (44ec:5064)]   (Sid:  5) Client -> Server @ : 273 bytes (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 8276 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 10544 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 5364 bytes  (Service=HTTP)
+[Web Request      (44ec:5064)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer (44ec:5064)]   (Sid:  5) Client -> Server @ : 316 bytes (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 1788 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  5) Server -> Client : 4228 bytes  (Service=HTTP)
+[Net An. Error    (44ec:37cc)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (44ec:4d54)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (44ec:4bf0)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (44ec:5064)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (44ec:5064)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (44ec:4bf0)] Request Connection: Remote Server @ 93.184.221.200:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (44ec:5814)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (44ec:5814)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (44ec:5064)] "GET /IE11/1478281996/iecompatviewlist.xml"   
+[Network Analyzer (44ec:5064)]   (Sid:  6) Client -> Server @ : 651 bytes (SSL)(Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  6) Server -> Client : 467 bytes (SSL) (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  6) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer (44ec:5064)]   (Sid:  6) Server -> Client : 12130 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4ad0: d64)] Address lookup for N84PF362 = 192.168.25.92
+[Network Analyzer (4ad0: d64)] Request Connection: Remote Server @ 172.20.16.97:8080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (4ad0:4340)] "GET /prestashop/?mylogout="   
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Client -> Server @ : 1341 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 876 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/my-account"   
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Client -> Server @ : 895 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 389 bytes  (Service=HTTP)
+[Web Request      (4ad0:4340)] "GET /prestashop/login?back=my-account"   
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Client -> Server @ : 906 bytes (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 6900 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer (4ad0:4340)]   (Sid:  9) Server -> Client : 11449 bytes  (Service=HTTP)

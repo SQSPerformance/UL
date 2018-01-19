@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 19 Jul 2017 15:28:44 GMT
+Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30
+Vary: Host
+X-Powered-By: PHP/5.6.30
+X-UA-Compatible: IE=edge,chrome=1
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Powered-By: PrestaShop
+Set-Cookie: PHPSESSID=ok5aan4va8vd4ckp3erbmdc5h0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PrestaShop-58b8a1863e181562e4bb71de59c20c7a=def50200ef37d28e127eec8c31bbac79a10b493f73f603274504e5f798fbd1971a7500369a86324d650bbdf6fb4619a6c359b67e7e7d16cccc647e05bd5a06439692f9c4e762bdfd5f5aa8e86eab82c734816c44d488849e0cc962d70e2106a6ab2a47e867e7467cb5775fa63aea1c34d2edf8d890c037498de58ed82588db7768a49200c5fa9bab80666ec0636625505a447b3fa1f82b03e197798904f4; expires=Tue, 08-Aug-2017 15:28:44 GMT; Max-Age=1728000; path=/prestashop/; domain=msdn-dev-build2.pd.group.intl; httponly
+Set-Cookie: PrestaShop-58b8a1863e181562e4bb71de59c20c7a=def50200b15ecccfffa40274de4bd858d83afaef55099343b13514c73ad36b0ca9ed60ecfd906efe0685977030a56705d762a6baa5c8fbed2703fa4a9f6d91fa4962c5c47f02264df86cd27db3db32eee6d21f999c75f79cf759fbd5539c969093ec81840a8146f5b8c03fdcf86f671c3339826aca4fe35b58f608d9ee78db93232175806f539192a297e6bb5dc877e6bf867cb339312e8ec482d0016da29fbb0233acfea4fbbfd8c6561a20bf46081f7ac1706c1811f3c9d085069f41bf6bab4f7cb7; expires=Tue, 08-Aug-2017 15:28:44 GMT; Max-Age=1728000; path=/prestashop/; domain=msdn-dev-build2.pd.group.intl; httponly
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

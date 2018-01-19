@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 19 Jul 2017 15:29:58 GMT
+Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30
+Vary: Host
+X-Powered-By: PHP/5.6.30
+X-UA-Compatible: IE=edge,chrome=1
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Powered-By: PrestaShop
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PrestaShop-58b8a1863e181562e4bb71de59c20c7a=def502009963712641fd300240edfe32840586e1c1abf0938e9e68b49edde1588309389e77ee95739c041ef7d2caf6fb45dd6472dd50da0a3c7b1d0ad13e458b2d4374c8cbac28bc71d0d2c70e2268252c474239eb678e0c3370365b7ed6d7ff7b40339b1b7926d961bf94ef133c2b6fcec03cd11990a1ada6868be5c78203856762c3b24b286fbab1af1e3a14f10fd59741f007dcea1744557337eb1af7067dad3787ba6dda1b31757f95b3c3bb6b374d55c31166adadb2beec91c7db4dc5a5d74661; expires=Tue, 08-Aug-2017 15:29:58 GMT; Max-Age=1727999; path=/prestashop/; domain=msdn-dev-build2.pd.group.intl; httponly
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

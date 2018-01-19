@@ -1,0 +1,12 @@
+GET /prestashop/?mylogout= HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account
+Accept-Language: en-GB
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate, peerdist
+Host: msdn-dev-build2.pd.group.intl:8080
+Connection: Keep-Alive
+Cookie: PrestaShop-58b8a1863e181562e4bb71de59c20c7a=def50200a4bdb56e3e63c036a4cad2ae2095bfba0c143983b57a92574e71481243355a8ef44ca558044a690e9141788fc5167c9eb59baeb0e1c5044cdb90a492790c78382bf9848f028e5ae7dea72eb23b3351032f56868389607d534a134d0faa0607312891cfb1db363808a5b8d5dddde7018fff91f8ac2ec05fcdc2b395f4761afe7112fad928b3793b815f128599d5df1ef74f65e7c79991928d83ab8a1b612992569a0ddd5b3fe35058f6c04ebe4affc840c4b100534a6cebc7e6a516527cfe3103b2f96f7061b1783a5d3fac5aa3cc31265909dbd072e85fd6b4cfcd1e910525195fed6335a6585f765e8063af2da8b891ab0f5af04beedaf29fb94f4c9b90becd6066be48e6d3793fa782e59428830c225753c8b2778304f439d464ff7756a377703dedc41919b237375462e9576000380213a9e161346765b2575ebb265a77125aa69ef320af6b36d3d6b54cdfdde02b341e2be7eac63db192e182748cd97c0356f47264a1ab35af8daa4c80a0fb546a732b8bf87d2e1b1484; PHPSESSID=ok5aan4va8vd4ckp3erbmdc5h0
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=2.0
+
