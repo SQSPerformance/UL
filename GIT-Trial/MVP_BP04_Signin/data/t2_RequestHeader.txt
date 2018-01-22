@@ -1,0 +1,12 @@
+GET /prestashop/my-account HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://msdn-dev-build2.pd.group.intl:8080/prestashop/
+Accept-Language: en-GB
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate, peerdist
+Host: msdn-dev-build2.pd.group.intl:8080
+Connection: Keep-Alive
+Cookie: PrestaShop-58b8a1863e181562e4bb71de59c20c7a=def50200b15ecccfffa40274de4bd858d83afaef55099343b13514c73ad36b0ca9ed60ecfd906efe0685977030a56705d762a6baa5c8fbed2703fa4a9f6d91fa4962c5c47f02264df86cd27db3db32eee6d21f999c75f79cf759fbd5539c969093ec81840a8146f5b8c03fdcf86f671c3339826aca4fe35b58f608d9ee78db93232175806f539192a297e6bb5dc877e6bf867cb339312e8ec482d0016da29fbb0233acfea4fbbfd8c6561a20bf46081f7ac1706c1811f3c9d085069f41bf6bab4f7cb7; PHPSESSID=ok5aan4va8vd4ckp3erbmdc5h0
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=2.0
+

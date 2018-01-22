@@ -1,0 +1,1113 @@
+b23e
+<!doctype html>
+<html lang="en">
+
+  <head>
+    
+      <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+  <title>PrestaShop</title>
+  <meta name="description" content="Shop powered by PrestaShop">
+  <meta name="keywords" content="">
+    
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/prestashop/img/favicon.ico?1324977642">
+<link rel="shortcut icon" type="image/x-icon" href="/prestashop/img/favicon.ico?1324977642">
+
+
+    <link rel="stylesheet" href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/theme-1dd0d9.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var prestashop = {"currency":{"name":"US Dollar","iso_code":"USD","iso_code_num":"840","sign":"$"},"customer":{"lastname":null,"firstname":null,"email":null,"last_passwd_gen":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"ip_registration_newsletter":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"outstanding_allow_amount":0,"max_payment_days":0,"note":null,"is_guest":0,"id_shop":null,"id_shop_group":null,"id_default_group":1,"date_add":null,"date_upd":null,"reset_password_token":null,"reset_password_validity":null,"id":null,"is_logged":false,"gender":{"type":null,"name":null,"id":null},"risk":{"name":null,"color":null,"percent":null,"id":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"m\/d\/Y","date_format_full":"m\/d\/Y H:i:s","id":1},"page":{"title":"","canonical":null,"meta":{"title":"PrestaShop","description":"Shop powered by PrestaShop","keywords":"","robots":"index"},"page_name":"index","body_classes":{"lang-en":true,"lang-rtl":false,"country-US":true,"currency-USD":true,"layout-full-width":true,"page-index":true,"tax-display-disabled":true},"admin_notifications":[]},"shop":{"name":"PrestaShop","email":"user@example.com","registration_number":false,"long":false,"lat":false,"logo":"\/prestashop\/img\/logo.png","stores_icon":"\/prestashop\/img\/logo_stores.png","favicon":"\/prestashop\/img\/favicon.ico","favicon_update_time":"1324977642","address":{"formatted":"PrestaShop<br>United States","address1":false,"address2":false,"postcode":false,"city":false,"state":null,"country":"United States"},"phone":false,"fax":false},"urls":{"base_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/","current_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/","shop_domain_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080","img_ps_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/","img_cat_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/c\/","img_lang_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/l\/","img_prod_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/p\/","img_manu_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/m\/","img_sup_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/su\/","img_ship_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/s\/","img_store_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/st\/","img_col_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/img\/co\/","img_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/themes\/classic\/assets\/img\/","css_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/themes\/classic\/assets\/css\/","js_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/themes\/classic\/assets\/js\/","pic_url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/upload\/","pages":{"address":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/address","addresses":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/addresses","authentication":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/login","cart":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/cart","category":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=category","cms":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=cms","contact":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/contact-us","discount":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/discount","guest_tracking":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/guest-tracking","history":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/order-history","identity":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/identity","index":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/","my_account":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/my-account","order_confirmation":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/order-confirmation","order_detail":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=order-detail","order_follow":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/order-follow","order":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/order","order_return":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=order-return","order_slip":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/credit-slip","pagenotfound":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/page-not-found","password":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/password-recovery","pdf_invoice":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=pdf-invoice","pdf_order_return":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=pdf-order-return","pdf_order_slip":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=pdf-order-slip","prices_drop":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/prices-drop","product":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/index.php?controller=product","search":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/search","sitemap":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/sitemap","stores":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/stores","supplier":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/supplier","register":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/login?create_account=1","order_login":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/order?login=1"},"theme_assets":"\/prestashop\/themes\/classic\/assets\/","actions":{"logout":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/?mylogout="}},"configuration":{"display_taxes_label":false,"low_quantity_threshold":3,"is_b2b":false,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"Discount"},"voucher_enabled":0,"return_enabled":0,"number_of_days_for_return":14},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":"http:\/\/msdn-dev-build2.pd.group.intl:8080\/prestashop\/"}],"count":1},"link":{"protocol_link":"http:\/\/","protocol_content":"http:\/\/"},"time":1500478124,"static_token":"353436e79109899629c1fbe9b44e8687","token":"22da61db94b0de6d9d5fe84c575be486"};
+      </script>
+
+
+
+  
+
+    
+  </head>
+
+  <body id="index" class="lang-en country-us currency-usd layout-full-width page-index tax-display-disabled">
+
+    
+
+    <main>
+      
+              
+      <header id="header">
+        
+          
+  <nav class="header-nav">
+    <div class="container">
+        <div class="row">
+          <div class="hidden-sm-down">
+            <div class="col-md-4 col-xs-12">
+              <div id="_desktop_contact_link">
+  <div id="contact-link">
+          <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/contact-us">Contact us</a>
+      </div>
+</div>
+
+            </div>
+            <div class="col-md-8 right-nav">
+                <div id="_desktop_user_info">
+  <div class="user-info">
+          <a
+        href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account"
+        title="Log in to your customer account"
+        rel="nofollow"
+      >
+        <i class="material-icons">&#xE7FF;</i>
+        <span class="hidden-sm-down">Sign in</span>
+      </a>
+      </div>
+</div><div id="_desktop_cart">
+  <div class="blockcart cart-preview inactive" data-refresh-url="http://msdn-dev-build2.pd.group.intl:8080/prestashop/module/ps_shoppingcart/ajax">
+    <div class="header">
+              <i class="material-icons shopping-cart">shopping_cart</i>
+        <span class="hidden-sm-down">Cart</span>
+        <span class="cart-products-count">(0)</span>
+          </div>
+  </div>
+</div>
+
+            </div>
+          </div>
+          <div class="hidden-md-up text-xs-center mobile">
+            <div class="pull-xs-left" id="menu-icon">
+              <i class="material-icons d-inline">&#xE5D2;</i>
+            </div>
+            <div class="pull-xs-right" id="_mobile_cart"></div>
+            <div class="pull-xs-right" id="_mobile_user_info"></div>
+            <div class="top-logo" id="_mobile_logo"></div>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+    </div>
+  </nav>
+
+
+
+  <div class="header-top">
+    <div class="container">
+       <div class="row">
+        <div class="col-md-2 hidden-sm-down" id="_desktop_logo">
+          <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/">
+            <img class="logo img-responsive" src="/prestashop/img/logo.png" alt="PrestaShop">
+          </a>
+        </div>
+        <div class="col-md-10 col-sm-12 position-static">
+          <div class="row">
+            
+
+<div class="menu col-lg-8 col-md-7 js-top-menu position-static hidden-sm-down" id="_desktop_top_menu">
+              <ul class="top-menu" id="top-menu" data-depth="0">
+                    <li class="category" id="category-3">
+                          <a
+                class="dropdown-item"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/3-women" data-depth="0"
+                              >
+                                  
+                                    <span class="pull-xs-right hidden-md-up">
+                    <span data-target="#top_sub_menu_75670" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE313;</i>
+                      <i class="material-icons remove">&#xE316;</i>
+                    </span>
+                  </span>
+                                Women
+              </a>
+                            <div  class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_75670">
+                          <ul class="top-menu"  data-depth="1">
+                    <li class="category" id="category-4">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/4-tops" data-depth="1"
+                              >
+                                  
+                                    <span class="pull-xs-right hidden-md-up">
+                    <span data-target="#top_sub_menu_45279" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE313;</i>
+                      <i class="material-icons remove">&#xE316;</i>
+                    </span>
+                  </span>
+                                Tops
+              </a>
+                            <div  class="collapse" id="top_sub_menu_45279">
+                          <ul class="top-menu"  data-depth="2">
+                    <li class="category" id="category-5">
+                          <a
+                class="dropdown-item"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/5-tshirts" data-depth="2"
+                              >
+                                T-shirts
+              </a>
+                          </li>
+                    <li class="category" id="category-7">
+                          <a
+                class="dropdown-item"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/7-blouses" data-depth="2"
+                              >
+                                Blouses
+              </a>
+                          </li>
+              </ul>
+    
+              </div>
+                          </li>
+                    <li class="category" id="category-8">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/8-dresses" data-depth="1"
+                              >
+                                  
+                                    <span class="pull-xs-right hidden-md-up">
+                    <span data-target="#top_sub_menu_97921" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE313;</i>
+                      <i class="material-icons remove">&#xE316;</i>
+                    </span>
+                  </span>
+                                Dresses
+              </a>
+                            <div  class="collapse" id="top_sub_menu_97921">
+                          <ul class="top-menu"  data-depth="2">
+                    <li class="category" id="category-9">
+                          <a
+                class="dropdown-item"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/9-casual-dresses" data-depth="2"
+                              >
+                                Casual Dresses
+              </a>
+                          </li>
+                    <li class="category" id="category-10">
+                          <a
+                class="dropdown-item"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/10-evening-dresses" data-depth="2"
+                              >
+                                Evening Dresses
+              </a>
+                          </li>
+                    <li class="category" id="category-11">
+                          <a
+                class="dropdown-item"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/11-summer-dresses" data-depth="2"
+                              >
+                                Summer Dresses
+              </a>
+                          </li>
+              </ul>
+    
+              </div>
+                          </li>
+              </ul>
+    
+              </div>
+                          </li>
+              </ul>
+    
+    <div class="clearfix"></div>
+</div>
+<!-- Block search module TOP -->
+<div id="search_widget" class="col-lg-4 col-md-5 col-sm-12 search-widget" data-search-controller-url="http://msdn-dev-build2.pd.group.intl:8080/prestashop/search">
+	<form method="get" action="http://msdn-dev-build2.pd.group.intl:8080/prestashop/search">
+		<input type="hidden" name="controller" value="search">
+		<input type="text" name="s" value="" placeholder="Search our catalog">
+		<button type="submit">
+			<i class="material-icons search">&#xE8B6;</i>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+      <div id="mobile_top_menu_wrapper" class="row hidden-md-up" style="display:none;">
+        <div class="js-top-menu mobile" id="_mobile_top_menu"></div>
+        <div class="js-top-menu-bottom">
+          <div id="_mobile_currency_selector"></div>
+          <div id="_mobile_language_selector"></div>
+          <div id="_mobile_contact_link"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+        
+      </header>
+      
+        
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+      
+      <section id="wrapper">
+        <div class="container">
+          
+            <nav data-depth="1" class="breadcrumb hidden-sm-down">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+          <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/">
+          <span itemprop="name">Home</span>
+        </a>
+        <meta itemprop="position" content="1">
+      </li>
+      </ol>
+</nav>
+          
+
+          
+
+          
+  <div id="content-wrapper">
+    
+
+  <section id="main">
+
+    
+      
+    
+
+    
+      <section id="content" class="page-home">
+        
+        
+            <div id="carousel" data-ride="carousel" class="carousel slide hidden-sm-down" data-interval="5000" data-wrap="true" data-pause="hover">
+    <ul class="carousel-inner" role="listbox">
+              <li class="carousel-item active">
+          <figure>
+            <img src="http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_imageslider/images/sample-1.jpg" alt="sample-1">
+                          <figcaption class="caption">
+                <h2 class="display-1 text-uppercase">Sample 1</h2>
+                <div class="caption-description"><h2>EXCEPTEUR OCCAECAT</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+              </figcaption>
+                      </figure>
+        </li>
+              <li class="carousel-item ">
+          <figure>
+            <img src="http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_imageslider/images/sample-2.jpg" alt="sample-2">
+                          <figcaption class="caption">
+                <h2 class="display-1 text-uppercase">Sample 2</h2>
+                <div class="caption-description"><h2>EXCEPTEUR OCCAECAT</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+              </figcaption>
+                      </figure>
+        </li>
+              <li class="carousel-item ">
+          <figure>
+            <img src="http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_imageslider/images/sample-3.jpg" alt="sample-3">
+                          <figcaption class="caption">
+                <h2 class="display-1 text-uppercase">Sample 3</h2>
+                <div class="caption-description"><h2>EXCEPTEUR OCCAECAT</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+              </figcaption>
+                      </figure>
+        </li>
+          </ul>
+    <div class="direction">
+      <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+        <span class="icon-prev hidden-xs" aria-hidden="true">
+          <i class="material-icons">&#xE5CB;</i>
+        </span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+        <span class="icon-next" aria-hidden="true">
+          <i class="material-icons">&#xE5CC;</i>
+        </span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+<section class="featured-products clearfix">
+  <h1 class="h1 products-section-title text-uppercase ">
+    Popular Products
+  </h1>
+  <div class="products">
+          <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="1" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/tshirts/1-1-faded-short-sleeves-tshirt.html#/1-size-s/13-color-orange" class="thumbnail product-thumbnail">
+        <img
+          src = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/1-home_default/faded-short-sleeves-tshirt.jpg"
+          alt = ""
+          data-full-size-image-url = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/1-large_default/faded-short-sleeves-tshirt.jpg"
+        >
+      </a>
+    
+
+    <div class="product-description">
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/tshirts/1-1-faded-short-sleeves-tshirt.html#/1-size-s/13-color-orange">Faded Short Sleeves T-shirt</a></h1>
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">$16.51</span>
+
+            
+
+            
+          </div>
+              
+    </div>
+    
+      <ul class="product-flags">
+                  <li class="new">New</li>
+              </ul>
+    
+    <div class="highlighted-informations hidden-sm-down">
+      <a
+        href="#"
+        class="quick-view"
+        data-link-action="quickview"
+      >
+        <i class="material-icons search">&#xE8B6;</i> Quick view
+      </a>
+
+      
+                  <div class="variant-links">
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/tshirts/1-1-faded-short-sleeves-tshirt.html#/1-size-s/13-color-orange"
+       class="color"
+       title="Orange"
+       
+       style="background-color: #F39C11"           ><span class="sr-only">Orange</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/tshirts/1-2-faded-short-sleeves-tshirt.html#/1-size-s/14-color-blue"
+       class="color"
+       title="Blue"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Blue</span></a>
+    <span class="js-count count"></span>
+</div>
+              
+    </div>
+
+  </div>
+</article>
+
+          <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="7" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/blouses/2-7-blouse.html#/1-size-s/11-color-black" class="thumbnail product-thumbnail">
+        <img
+          src = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/7-home_default/blouse.jpg"
+          alt = ""
+          data-full-size-image-url = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/7-large_default/blouse.jpg"
+        >
+      </a>
+    
+
+    <div class="product-description">
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/blouses/2-7-blouse.html#/1-size-s/11-color-black">Blouse</a></h1>
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">$26.99</span>
+
+            
+
+            
+          </div>
+              
+    </div>
+    
+      <ul class="product-flags">
+                  <li class="new">New</li>
+              </ul>
+    
+    <div class="highlighted-informations hidden-sm-down">
+      <a
+        href="#"
+        class="quick-view"
+        data-link-action="quickview"
+      >
+        <i class="material-icons search">&#xE8B6;</i> Quick view
+      </a>
+
+      
+                  <div class="variant-links">
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/blouses/2-8-blouse.html#/1-size-s/8-color-white"
+       class="color"
+       title="White"
+       
+       style="background-color: #ffffff"           ><span class="sr-only">White</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/blouses/2-7-blouse.html#/1-size-s/11-color-black"
+       class="color"
+       title="Black"
+       
+       style="background-color: #434A54"           ><span class="sr-only">Black</span></a>
+    <span class="js-count count"></span>
+</div>
+              
+    </div>
+
+  </div>
+</article>
+
+          <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="13" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/casual-dresses/3-13-printed-dress.html#/1-size-s/13-color-orange" class="thumbnail product-thumbnail">
+        <img
+          src = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/8-home_default/printed-dress.jpg"
+          alt = ""
+          data-full-size-image-url = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/8-large_default/printed-dress.jpg"
+        >
+      </a>
+    
+
+    <div class="product-description">
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/casual-dresses/3-13-printed-dress.html#/1-size-s/13-color-orange">Printed Dress</a></h1>
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">$25.99</span>
+
+            
+
+            
+          </div>
+              
+    </div>
+    
+      <ul class="product-flags">
+                  <li class="new">New</li>
+              </ul>
+    
+    <div class="highlighted-informations hidden-sm-down">
+      <a
+        href="#"
+        class="quick-view"
+        data-link-action="quickview"
+      >
+        <i class="material-icons search">&#xE8B6;</i> Quick view
+      </a>
+
+      
+                  <div class="variant-links">
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/casual-dresses/3-13-printed-dress.html#/1-size-s/13-color-orange"
+       class="color"
+       title="Orange"
+       
+       style="background-color: #F39C11"           ><span class="sr-only">Orange</span></a>
+    <span class="js-count count"></span>
+</div>
+              
+    </div>
+
+  </div>
+</article>
+
+          <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="16" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/evening-dresses/4-16-printed-dress.html#/1-size-s/7-color-beige" class="thumbnail product-thumbnail">
+        <img
+          src = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/10-home_default/printed-dress.jpg"
+          alt = ""
+          data-full-size-image-url = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/10-large_default/printed-dress.jpg"
+        >
+      </a>
+    
+
+    <div class="product-description">
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/evening-dresses/4-16-printed-dress.html#/1-size-s/7-color-beige">Printed Dress</a></h1>
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">$50.99</span>
+
+            
+
+            
+          </div>
+              
+    </div>
+    
+      <ul class="product-flags">
+                  <li class="new">New</li>
+              </ul>
+    
+    <div class="highlighted-informations hidden-sm-down">
+      <a
+        href="#"
+        class="quick-view"
+        data-link-action="quickview"
+      >
+        <i class="material-icons search">&#xE8B6;</i> Quick view
+      </a>
+
+      
+                  <div class="variant-links">
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/evening-dresses/4-16-printed-dress.html#/1-size-s/7-color-beige"
+       class="color"
+       title="Beige"
+       
+       style="background-color: #f5f5dc"           ><span class="sr-only">Beige</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/evening-dresses/4-43-printed-dress.html#/1-size-s/24-color-pink"
+       class="color"
+       title="Pink"
+       
+       style="background-color: #FCCACD"           ><span class="sr-only">Pink</span></a>
+    <span class="js-count count"></span>
+</div>
+              
+    </div>
+
+  </div>
+</article>
+
+          <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="19" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/5-19-printed-summer-dress.html#/1-size-s/16-color-yellow" class="thumbnail product-thumbnail">
+        <img
+          src = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/12-home_default/printed-summer-dress.jpg"
+          alt = ""
+          data-full-size-image-url = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/12-large_default/printed-summer-dress.jpg"
+        >
+      </a>
+    
+
+    <div class="product-description">
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/5-19-printed-summer-dress.html#/1-size-s/16-color-yellow">Printed Summer Dress</a></h1>
+      
+
+      
+                  <div class="product-price-and-shipping">
+                          
+
+              <span class="regular-price">$30.50</span>
+                              <span class="discount-percentage">-5%</span>
+                          
+            
+
+            <span itemprop="price" class="price">$28.98</span>
+
+            
+
+            
+          </div>
+              
+    </div>
+    
+      <ul class="product-flags">
+                  <li class="discount">Reduced price</li>
+                  <li class="new">New</li>
+              </ul>
+    
+    <div class="highlighted-informations hidden-sm-down">
+      <a
+        href="#"
+        class="quick-view"
+        data-link-action="quickview"
+      >
+        <i class="material-icons search">&#xE8B6;</i> Quick view
+      </a>
+
+      
+                  <div class="variant-links">
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/5-22-printed-summer-dress.html#/1-size-s/11-color-black"
+       class="color"
+       title="Black"
+       
+       style="background-color: #434A54"           ><span class="sr-only">Black</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/5-21-printed-summer-dress.html#/1-size-s/13-color-orange"
+       class="color"
+       title="Orange"
+       
+       style="background-color: #F39C11"           ><span class="sr-only">Orange</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/5-20-printed-summer-dress.html#/1-size-s/14-color-blue"
+       class="color"
+       title="Blue"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Blue</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/5-19-printed-summer-dress.html#/1-size-s/16-color-yellow"
+       class="color"
+       title="Yellow"
+       
+       style="background-color: #F1C40F"           ><span class="sr-only">Yellow</span></a>
+    <span class="js-count count"></span>
+</div>
+              
+    </div>
+
+  </div>
+</article>
+
+          <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="31" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/6-31-printed-summer-dress.html#/1-size-s/16-color-yellow" class="thumbnail product-thumbnail">
+        <img
+          src = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/16-home_default/printed-summer-dress.jpg"
+          alt = ""
+          data-full-size-image-url = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/16-large_default/printed-summer-dress.jpg"
+        >
+      </a>
+    
+
+    <div class="product-description">
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/6-31-printed-summer-dress.html#/1-size-s/16-color-yellow">Printed Summer Dress</a></h1>
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">$30.50</span>
+
+            
+
+            
+          </div>
+              
+    </div>
+    
+      <ul class="product-flags">
+                  <li class="new">New</li>
+              </ul>
+    
+    <div class="highlighted-informations hidden-sm-down">
+      <a
+        href="#"
+        class="quick-view"
+        data-link-action="quickview"
+      >
+        <i class="material-icons search">&#xE8B6;</i> Quick view
+      </a>
+
+      
+                  <div class="variant-links">
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/6-40-printed-summer-dress.html#/1-size-s/8-color-white"
+       class="color"
+       title="White"
+       
+       style="background-color: #ffffff"           ><span class="sr-only">White</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/6-31-printed-summer-dress.html#/1-size-s/16-color-yellow"
+       class="color"
+       title="Yellow"
+       
+       style="background-color: #F1C40F"           ><span class="sr-only">Yellow</span></a>
+    <span class="js-count count"></span>
+</div>
+              
+    </div>
+
+  </div>
+</article>
+
+          <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="34" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/7-34-printed-chiffon-dress.html#/1-size-s/16-color-yellow" class="thumbnail product-thumbnail">
+        <img
+          src = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/20-home_default/printed-chiffon-dress.jpg"
+          alt = ""
+          data-full-size-image-url = "http://msdn-dev-build2.pd.group.intl:8080/prestashop/20-large_default/printed-chiffon-dress.jpg"
+        >
+      </a>
+    
+
+    <div class="product-description">
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/7-34-printed-chiffon-dress.html#/1-size-s/16-color-yellow">Printed Chiffon Dress</a></h1>
+      
+
+      
+                  <div class="product-price-and-shipping">
+                          
+
+              <span class="regular-price">$20.50</span>
+                              <span class="discount-percentage">-20%</span>
+                          
+            
+
+            <span itemprop="price" class="price">$16.40</span>
+
+            
+
+            
+          </div>
+              
+    </div>
+    
+      <ul class="product-flags">
+                  <li class="discount">Reduced price</li>
+                  <li class="new">New</li>
+              </ul>
+    
+    <div class="highlighted-informations hidden-sm-down">
+      <a
+        href="#"
+        class="quick-view"
+        data-link-action="quickview"
+      >
+        <i class="material-icons search">&#xE8B6;</i> Quick view
+      </a>
+
+      
+                  <div class="variant-links">
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/7-37-printed-chiffon-dress.html#/1-size-s/15-color-green"
+       class="color"
+       title="Green"
+       
+       style="background-color: #A0D468"           ><span class="sr-only">Green</span></a>
+      <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/summer-dresses/7-34-printed-chiffon-dress.html#/1-size-s/16-color-yellow"
+       class="color"
+       title="Yellow"
+       
+       style="background-color: #F1C40F"           ><span class="sr-only">Yellow</span></a>
+    <span class="js-count count"></span>
+</div>
+              
+    </div>
+
+  </div>
+</article>
+
+      </div>
+  <a class="all-product-link pull-xs-left pull-md-right h4" href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/2-home">
+    All products<i class="material-icons">&#xE315;</i>
+  </a>
+</section><a class="banner hidden-sm-down" href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/" title="">
+      <img src="http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_banner/img/sale70.png" alt="" title="" class="img-fluid">
+  </a>
+<div id="custom-text">
+  <h3>Custom Text Block</h3>
+<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetu</strong></p>
+<p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+</div>
+
+        
+      </section>
+    
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+  </div>
+
+
+          
+        </div>
+      </section>
+
+      <footer id="footer">
+        
+          <div class="container">
+  <div class="row">
+    
+<div class="block_newsletter col-lg-8 col-md-12 col-sm-12">
+  <div class="row">
+    <p class="col-md-5 col-xs-12">Get our latest news and special sales</p>
+    <div class="col-md-7 col-xs-12">
+      <form action="http://msdn-dev-build2.pd.group.intl:8080/prestashop/#footer" method="post">
+        <div class="row">
+          <div class="col-xs-12">
+            <input
+              class="btn btn-primary pull-xs-right hidden-xs-down"
+              name="submitNewsletter"
+              type="submit"
+              value="Subscribe"
+            >
+            <input
+              class="btn btn-primary pull-xs-right hidden-sm-up"
+              name="submitNewsletter"
+              type="submit"
+              value="OK"
+            >
+            <div class="input-wrapper">
+              <input
+                name="email"
+                type="text"
+                value=""
+                placeholder="Your email address"
+              >
+            </div>
+            <input type="hidden" name="action" value="0">
+            <div class="clearfix"></div>
+          </div>
+          <div class="col-xs-12">
+                              <p>You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.</p>
+                                      </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+  <div class="block-social col-lg-4 col-md-12 col-sm-12">
+    <ul>
+          </ul>
+  </div>
+
+
+  </div>
+</div>
+<div class="footer-container">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 links">
+  <div class="row">
+      <div class="col-md-6 wrapper">
+      <h3 class="h3 hidden-sm-down">Products</h3>
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_9394" data-toggle="collapse">
+        <span class="h3">Products</span>
+        <span class="pull-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_9394" class="collapse">
+                  <li>
+            <a
+                id="link-product-page-prices-drop-1"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/prices-drop"
+                title="Our special products">
+              Prices drop
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-new-products-1"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/new-products"
+                title="Our new products">
+              New products
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-best-sales-1"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/best-sales"
+                title="Our best sales">
+              Best sales
+            </a>
+          </li>
+              </ul>
+    </div>
+      <div class="col-md-6 wrapper">
+      <h3 class="h3 hidden-sm-down">Our company</h3>
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_24639" data-toggle="collapse">
+        <span class="h3">Our company</span>
+        <span class="pull-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_24639" class="collapse">
+                  <li>
+            <a
+                id="link-cms-page-1-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/content/1-delivery"
+                title="Our terms and conditions of delivery">
+              Delivery
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-2-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/content/2-legal-notice"
+                title="Legal notice">
+              Legal Notice
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-3-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/content/3-terms-and-conditions-of-use"
+                title="Our terms and conditions of use">
+              Terms and conditions of use
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-4-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/content/4-about-us"
+                title="Learn more about us">
+              About us
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-5-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/content/5-secure-payment"
+                title="Our secure payment method">
+              Secure payment
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-contact-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/contact-us"
+                title="Use our form to contact us">
+              Contact us
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-sitemap-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/sitemap"
+                title="Lost ? Find what your are looking for">
+              Sitemap
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-stores-2"
+                class="cms-page-link"
+                href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/stores"
+                title="">
+              Stores
+            </a>
+          </li>
+              </ul>
+    </div>
+    </div>
+</div>
+<div id="block_myaccount_infos" class="col-md-2 links wrapper">
+  <h3 class="myaccount-title hidden-sm-down">
+    <a class="text-uppercase" href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account" rel="nofollow">
+      Your account
+    </a>
+  </h3>
+  <div class="title clearfix hidden-md-up" data-target="#footer_account_list" data-toggle="collapse">
+    <span class="h3">Your account</span>
+    <span class="pull-xs-right">
+      <span class="navbar-toggler collapse-icons">
+        <i class="material-icons add">&#xE313;</i>
+        <i class="material-icons remove">&#xE316;</i>
+      </span>
+    </span>
+  </div>
+  <ul class="account-list collapse" id="footer_account_list">
+            <li>
+          <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/addresses" title="Addresses" rel="nofollow">
+            Addresses
+          </a>
+        </li>
+            <li>
+          <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/credit-slip" title="Credit slips" rel="nofollow">
+            Credit slips
+          </a>
+        </li>
+            <li>
+          <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/order-history" title="Orders" rel="nofollow">
+            Orders
+          </a>
+        </li>
+            <li>
+          <a href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/identity" title="Personal info" rel="nofollow">
+            Personal info
+          </a>
+        </li>
+        
+	</ul>
+</div>
+
+<div class="block-contact col-md-4 links wrapper">
+  <div class="hidden-sm-down">
+    <h4 class="text-uppercase block-contact-title">Store information</h4>
+      PrestaShop<br />United States
+                          <br>
+        
+        Email us: <span>user@example.com</span>
+        </div>
+  <div class="hidden-md-up">
+    <div class="title">
+      <a class="h3" href="http://msdn-dev-build2.pd.group.intl:8080/prestashop/stores">Store information</a>
+    </div>
+  </div>
+</div>
+    </div>
+    <div class="row">
+      
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+          <a class="_blank" href="http://www.prestashop.com" target="_blank">
+            © 2017 - Ecommerce software by PrestaShop™
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </footer>
+
+    </main>
+
+    
+        <script type="text/javascript" src="http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/bottom-7f2338.js" ></script>
+
+
+    
+
+    
+
+  </body>
+
+</html>
+0
+

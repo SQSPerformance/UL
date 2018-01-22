@@ -1,0 +1,82 @@
+Virtual User Script started at : 20/07/2017 14:16:50
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 10; build 1203 (Jul 20 2017 19:13:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\mccollums\Desktop\MVP\Scripts\MVP_BP04_SIgnin\MVP_BP04_Signin\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): Notify: Transaction "MVP_BP04_01_LaunchBrowser" started.
+Action.c(8): web_url("prestashop") started  	[MsgId: MMSG-26355]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/theme-1dd0d9.css" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/img/logo.png" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_imageslider/images/sample-1.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_imageslider/images/sample-2.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_imageslider/images/sample-3.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/1-home_default/faded-short-sleeves-tshirt.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/7-home_default/blouse.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/8-home_default/printed-dress.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/10-home_default/printed-dress.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/12-home_default/printed-summer-dress.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/16-home_default/printed-summer-dress.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/20-home_default/printed-chiffon-dress.jpg" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/modules/ps_banner/img/sale70.png" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/bottom-7f2338.js" in HTML "http://msdn-dev-build2.pd.group.intl:8080/prestashop/"  	[MsgId: MMSG-26659]
+Action.c(8): web_url("prestashop") was successful, 1458270 body bytes, 6414 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(17): Notify: Transaction "MVP_BP04_01_LaunchBrowser" ended with a "Pass" status (Duration: 1.4807 Wasted Time: 0.2779).
+Action.c(21): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(21): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(23): Notify: Transaction "MVP_BP04_02_ClickSignIn" started.
+Action.c(25): web_link("&#xE7FF; Sign in") started  	[MsgId: MMSG-26355]
+Action.c(25): Linking to "http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account", Target Frame=""  	[MsgId: MMSG-27994]
+Action.c(25): Redirecting "http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(25): To location "http://msdn-dev-build2.pd.group.intl:8080/prestashop/login?back=my-account"  	[MsgId: MMSG-26693]
+Action.c(25): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/theme-1dd0d9.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(25): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/img/logo.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(25): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/bottom-7f2338.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(25): Registered web_reg_find successful for "Text=Email" (count=2)  	[MsgId: MMSG-26364]
+Action.c(25): Notify: Saving Parameter "Signin_Count = 2".
+Action.c(25): web_link("&#xE7FF; Sign in") was successful, 28276 body bytes, 916 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(30): Notify: Transaction "MVP_BP04_02_ClickSignIn" ended with a "Pass" status (Duration: 0.7856 Wasted Time: 0.0228).
+Action.c(32): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(32): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(34): Notify: Transaction "MVP_BP04_03_EnterDetails" started.
+Action.c(36): web_submit_form("login") started  	[MsgId: MMSG-26355]
+Action.c(36): Submitting form to "http://msdn-dev-build2.pd.group.intl:8080/prestashop/login?back=my-account", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(36): Redirecting "http://msdn-dev-build2.pd.group.intl:8080/prestashop/login?back=my-account" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(36): To location "http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account"  	[MsgId: MMSG-26693]
+Action.c(36): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/theme-1dd0d9.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(36): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/img/logo.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(36): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/bottom-7f2338.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(36): Registered web_reg_find successful for "Text=P Test" (count=1)  	[MsgId: MMSG-26364]
+Action.c(36): Notify: Saving Parameter "Login_Count = 1".
+Action.c(36): web_submit_form("login") was successful, 27566 body bytes, 3009 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(43): web_url("iecompatviewlist.xml") started  	[MsgId: MMSG-26355]
+Action.c(43): web_url("iecompatviewlist.xml") was successful, 28513 body bytes, 467 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "MVP_BP04_03_EnterDetails" ended with a "Pass" status (Duration: 2.5674 Wasted Time: 1.1764).
+Action.c(54): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(54): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(56): Notify: Transaction "MVP_BP04_04_SignOut" started.
+Action.c(58): web_url("prestashop_2") started  	[MsgId: MMSG-26355]
+Action.c(58): Redirecting "http://msdn-dev-build2.pd.group.intl:8080/prestashop/?mylogout=" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(58): To location "http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account"  	[MsgId: MMSG-26693]
+Action.c(58): Redirecting "http://msdn-dev-build2.pd.group.intl:8080/prestashop/my-account" (redirection depth is 1)  	[MsgId: MMSG-26694]
+Action.c(58): To location "http://msdn-dev-build2.pd.group.intl:8080/prestashop/login?back=my-account"  	[MsgId: MMSG-26693]
+Action.c(58): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/theme-1dd0d9.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(58): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/img/logo.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(58): Resource "http://msdn-dev-build2.pd.group.intl:8080/prestashop/themes/classic/assets/cache/bottom-7f2338.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(58): Registered web_reg_find successful for "Text=Sign in" (count=2)  	[MsgId: MMSG-26364]
+Action.c(58): Notify: Saving Parameter "Logout_Count = 2".
+Action.c(58): web_url("prestashop_2") was successful, 28276 body bytes, 2362 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(67): Notify: Transaction "MVP_BP04_04_SignOut" ended with a "Pass" status (Duration: 0.9948 Wasted Time: 0.0202).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
