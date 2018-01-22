@@ -4,6 +4,7 @@ Action()
 	web_set_sockets_option("SSL_VERSION", "2&3");
 	
 	//step 1 launch browser
+	//a comment
 	
 		
 	lr_start_transaction("MVP_BP04_01_LaunchBrowser");
