@@ -1,0 +1,12 @@
+POST /prestashop/login?back=my-account HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://msdn-dev-build2.pd.group.intl:8080/prestashop/login?back=my-account
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate, peerdist
+Accept-Language: en-GB
+Accept: */*
+Connection: Keep-Alive
+Host: msdn-dev-build2.pd.group.intl:8080
+Cookie: PrestaShop-58b8a1863e181562e4bb71de59c20c7a=def502007d8993dcf14383617cb9466a72276db53987ff576cee5f304a14760652f7b2a2914d6a443297bdf5f7beb03bf1896c935e367c42ebaa7667242d6246a03d63157362a7c198734df671e4a215222ecfc74bb05e3ec9ada498ca1728dca21cdefcd4878ab07993c69ba1c27407c9c2ebf7e400b3191a6150488d7a0ae15295d42b663b033be111888840bc0425779f157a0b37cdbd1ca2c43a668adb40b2fcd3051b21897f20cf723381164a05adb3670ff01a6218d25f0cb2ee0066a770a9; PHPSESSID=q5g91levqjalslvhkv7a9n5632
+Content-Length: 65
+

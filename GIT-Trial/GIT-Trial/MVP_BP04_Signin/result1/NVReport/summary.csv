@@ -1,0 +1,5 @@
+Transaction Name,Flow Name,Packet List Name,Transaction Duration (seconds),Network Time (seconds) ,Throughput Up (KB),Throughput Down (KB),Number of Requests,Errors,Analysis Score (Desktop) ,Analysis Score (Mobile) ,Transaction HTML Report Name
+MVP_BP04_01_LaunchBrowser,,,1.4,1.1,12.0,1464.7,15,0,79.5,80.5,report0.html
+MVP_BP04_02_ClickSignIn,,,0.6,0.6,1.6,29.2,2,0,90.0,90.5,report1.html
+MVP_BP04_03_EnterDetails,,,2.1,2.1,2.9,66.9,3,0,98.5,98.5,report2.html
+MVP_BP04_04_SignOut,,,0.9,0.8,2.7,30.7,3,0,90.0,90.5,report3.html
